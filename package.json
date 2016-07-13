@@ -1,0 +1,15 @@
+{
+  "name": "minimorsa",
+  "version": "0.1.0",
+  "description": "Prueba Nacional de Transparencia",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "zombie": "^4.2.1"
+  }
+}
