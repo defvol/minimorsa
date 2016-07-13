@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Prueba Nacional de Transparencia",
   "scripts": {
-    "test": "tape test.js"
+    "test": "tape test/*.test.js"
   },
   "license": "ISC",
   "devDependencies": {
