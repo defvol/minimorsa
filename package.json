@@ -3,13 +3,14 @@
   "version": "0.1.0",
   "description": "Prueba Nacional de Transparencia",
   "scripts": {
-    "test": "tape test.js"
+    "test": "tape test/*.test.js"
   },
   "license": "ISC",
   "devDependencies": {
     "tape": "^4.6.0"
   },
   "dependencies": {
+    "superagent": "^2.0.0",
     "zombie": "^4.2.1"
   }
 }
